@@ -1,0 +1,9 @@
+[submodule "libraries/NewPing"]
+	path = libraries/NewPing
+	url = git://github.com/livetronic/Arduino-NewPing.git
+[submodule "libraries/IRremote"]
+	path = libraries/IRremote
+	url = git://github.com/livetronic/Arduino-IRremote.git
+[submodule "libraries/SCoop"]
+	path = libraries/SCoop
+	url = git://github.com/fabriceo/SCoop.git
